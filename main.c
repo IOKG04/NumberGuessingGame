@@ -38,8 +38,8 @@ int main(int argc, char **argv){
                 printf(" nggame [min] [max] [guesses]\tStarts the game with a number between [min] and [max] (inclusive) and [guesses] guesses\n");
                 printf(" nggame help          Shows this message\n\n");
                 printf("How to play the game:\n");
-                printf(" A random number will be generated between the specified limits (by default %lu and %lu (inclusive))\n", DEFAULT_MIN, DEFAULT_MAX);
-                printf(" You will have to guess said number. If you manage to do so, you win, if you dont, you lose\n");
+                printf(" A random number will be generated between the specified limits (by default %lu and %lu (inclusive)).\n", DEFAULT_MIN, DEFAULT_MAX);
+                printf(" You will have to guess said number. If you manage to do so, you win, if you dont, you lose.\n");
                 printf(" You guess by typing a number.\n");
                 printf(" If the number you typed is the number generated, you win.\n");
                 printf(" If it isnt the number that was generated, it will tell you if you guessed over or under the generated number.\n");
