@@ -24,7 +24,7 @@ Usage:
  nggame [max]                   Starts the game with a number between 1 and [max] (inclusive)
  nggame [min] [max]             Starts the game with a number between [min] and [max] (inclusive)
  nggame [min] [max] [guesses]   Starts the game with a number between [min] and [max] (inclusive) and [guesses] guesses
- nggame help          Shows this message
+ nggame help                    Shows this message
 
 How to play the game:
  A random number will be generated between the specified limits (by default 1 and 1000 (inclusive)).
