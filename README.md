@@ -9,6 +9,12 @@ Building NumberGuessingGame is simple, you just run
 make
 ```
 
+That is assuming you have `make` and `gcc` installed.  
+If not, install those and run
+```bash
+make
+```
+
 ### Usage
 
 Ive already typed all of this out, so heres the help message:
