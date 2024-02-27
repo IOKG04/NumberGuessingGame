@@ -36,7 +36,7 @@ int main(int argc, char **argv){
                 printf(" nggame [max]                \tStarts the game with a number between %lu and [max] (inclusive)\n", DEFAULT_MIN);
                 printf(" nggame [min] [max]          \tStarts the game with a number between [min] and [max] (inclusive)\n");
                 printf(" nggame [min] [max] [guesses]\tStarts the game with a number between [min] and [max] (inclusive) and [guesses] guesses\n");
-                printf(" nggame help          Shows this message\n\n");
+                printf(" nggame help                 \tShows this message\n\n");
                 printf("How to play the game:\n");
                 printf(" A random number will be generated between the specified limits (by default %lu and %lu (inclusive)).\n", DEFAULT_MIN, DEFAULT_MAX);
                 printf(" You will have to guess said number. If you manage to do so, you win, if you dont, you lose.\n");
